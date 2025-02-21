@@ -14,4 +14,5 @@ Usage:
 npm i
 node simple_count
 node count_objects
+node ledger_data_permissioned_domain
 ```
